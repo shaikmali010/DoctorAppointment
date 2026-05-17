@@ -1,0 +1,14 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore Eclipse files
+/bin/
+/.settings/
+/.project
+/.classpath
+
+# Ignore external jars
+*.jar
+
+# Ignore logs
+*.log
